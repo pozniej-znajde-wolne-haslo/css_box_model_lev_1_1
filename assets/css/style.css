@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(171, 158, 158);
+}
+
+section {
+    padding: 25px;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+p {
+    border: 25px solid black;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aquamarine;
+    width: 300px;
+}
+
